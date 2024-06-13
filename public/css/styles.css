@@ -1,0 +1,181 @@
+body {
+    background-color: #0f0f0f;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cyberpunk-container {
+    margin-top: 50px;
+}
+
+.cyberpunk-card {
+    background: #1e1e1e;
+    border: 1px solid #00ff99;
+    border-radius: 8px;
+    box-shadow: 0 0 15px #00ff99;
+}
+
+.cyberpunk-card-header {
+    background: #131313;
+    border-bottom: 1px solid #00ff99;
+    color: #00ff99;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.cyberpunk-label {
+    color: #00ff99;
+}
+
+.cyberpunk-input {
+    background: #2b2b2b;
+    border: 1px solid #00ff99;
+    color: #00ff99;
+}
+
+.cyberpunk-input:focus {
+    box-shadow: 0 0 8px #00ff99;
+    border-color: #00ff99;
+}
+
+.cyberpunk-feedback {
+    color: #ff0066;
+}
+
+.cyberpunk-check .cyberpunk-check-input:checked + .cyberpunk-check-label {
+    color: #00ff99;
+}
+
+.cyberpunk-btn {
+    background: #00ff99;
+    border: none;
+    color: #0f0f0f;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background 0.3s;
+}
+
+.cyberpunk-btn:hover {
+    background: #00cc7a;
+    color: #fff;
+}
+
+.cyberpunk-link {
+    color: #00ff99;
+}
+
+.cyberpunk-link:hover {
+    color: #00cc7a;
+}
+
+body {
+    background-color: #0f0f0f;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cyberpunk-container {
+    margin-top: 50px;
+}
+
+.cyberpunk-card {
+    background: #1e1e1e;
+    border: 1px solid #00ff99;
+    border-radius: 8px;
+    box-shadow: 0 0 15px #00ff99;
+}
+
+.cyberpunk-card-header {
+    background: #131313;
+    border-bottom: 1px solid #00ff99;
+    color: #00ff99;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.cyberpunk-label {
+    color: #00ff99;
+}
+
+.cyberpunk-input {
+    background: #2b2b2b;
+    border: 1px solid #00ff99;
+    color: #00ff99;
+}
+
+.cyberpunk-input:focus {
+    box-shadow: 0 0 8px #00ff99;
+    border-color: #00ff99;
+}
+
+.cyberpunk-feedback {
+    color: #ff0066;
+}
+
+.cyberpunk-check .cyberpunk-check-input:checked + .cyberpunk-check-label {
+    color: #00ff99;
+}
+
+.cyberpunk-btn {
+    background: #00ff99;
+    border: none;
+    color: #0f0f0f;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background 0.3s;
+}
+
+.cyberpunk-btn:hover {
+    background: #00cc7a;
+    color: #fff;
+}
+
+.cyberpunk-link {
+    color: #00ff99;
+}
+
+.cyberpunk-link:hover {
+    color: #00cc7a;
+}
+
+/**/
+
+footer {
+    font-family: 'Orbitron', sans-serif;
+}
+
+footer a {
+    color: #00ffff;
+}
+
+footer a:hover {
+    color: #39ff14;
+}
+
+footer .address-wrapper p {
+    margin-bottom: 0;
+}
+
+footer .social-media-wrapper i {
+    font-size: 1.5rem;
+}
+
+footer .newsletter-wrapper input::placeholder {
+    color: #00ffff;
+}
+
+footer .newsletter-wrapper input {
+    color: #00ffff;
+}
+
+footer .btn-outline-light {
+    border-color: #39ff14;
+    color: #39ff14;
+}
+
+footer .btn-outline-light:hover {
+    background-color: #39ff14;
+    color: #0f0f0f;
+}
